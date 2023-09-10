@@ -20,4 +20,4 @@ python wallet.py --balance <address>
 
 ## License
 MIT
-<!-- updated: 2023-09-09-r01 -->
+<!-- updated: 2023-09-10-r01 -->
