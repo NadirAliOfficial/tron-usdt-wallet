@@ -13,7 +13,7 @@ sender_address = sender_private_key.public_key.to_base58check_address()
 destination_address = "THa1zYpEuCW26Syav3kjxV5jwdv32WmcMh"
 
 # Define the transfer amount in Sun (1 TRX = 1,000,000 Sun)
-amount_in_sun = 1_000_000  
+amount_in_sun = 1_000_000
 
 # Build the transfer transaction
 txn = (
